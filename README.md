@@ -1,6 +1,6 @@
-# 👋 Abdulghafur Ali | DevOps & Cloud Engineer
+#  Abdulghafur Ali | DevOps & Cloud Engineer
 
-## 🎯 About Me
+##  About Me
 I'm a passionate **DevOps and Cloud Engineer** building scalable, secure infrastructure for enterprise environments. Currently working on a comprehensive **DevOps Lab Setup** combining Kubernetes, SIEM, and hardened Linux systems.
 
 **Specializations:**
